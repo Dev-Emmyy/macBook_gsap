@@ -73,4 +73,4 @@ const Showcase = () => {
         </section>
     )
 }
-export default Showcase
+export default Showcase;
